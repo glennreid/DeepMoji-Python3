@@ -11,7 +11,7 @@ setup(
         'h5py==2.10.0',
         'Keras==2.3.1',
         'numpy==1.18.2',
-        'scikit-learn==0.19.0',
+        'scikit-learn==0.19.2',
         'tensorflow==1.13.2',
         'text-unidecode==1.0',
     ],
