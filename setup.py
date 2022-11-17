@@ -12,7 +12,7 @@ setup(
         'Keras==2.3.1',
         'numpy==1.18.2',
         'scikit-learn==0.22.2.post1',
-        'tensorflow==1.13.2',
+        'tensorflow==2.4.1',
         'text-unidecode==1.0',
     ],
 )
