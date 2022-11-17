@@ -7,7 +7,7 @@ setup(
     description='DeepMoji library',
     include_package_data=True,
     install_requires=[
-        'emoji==0.4.5',
+        'emoji==0.6.0',
         'h5py==2.10.0',
         'Keras==2.3.1',
         'numpy==1.18.2',
